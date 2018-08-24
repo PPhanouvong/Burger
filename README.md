@@ -49,7 +49,7 @@ Before You Begin
 <p>│       │   └── burger_style.css</p>
 <p>│       └── img</p>
 <p>│           └── burger.png</p>
-<p>│   </p>
+<p>│</p>
 <p>│</p>
 <p>├── server.js</p>
 <p>│</p>
