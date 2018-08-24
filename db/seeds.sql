@@ -3,3 +3,5 @@ INSERT INTO burgers (burger_name, devoured)
 VALUES ('Cheese Burger', true),
 	   ('Turkey Burger', false),
 	   ('Veggie Burger', false);
+
+SELECT * FROM burgers;
