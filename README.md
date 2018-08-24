@@ -22,38 +22,3 @@ Before You Begin
 <p>Handlebars</p>
 <br>
 <br>
-
-## File Setup
-<br>
-<p>├── config</p>
-<p>│   ├── connection.js</p>
-<p>│   └── orm.js</p>
-<p>│ </p>
-<p>├── controllers</p>
-<p>│   └── burgers_controller.js</p>
-<p>│</p>
-<p>├── db</p>
-<p>│   ├── schema.sql</p>
-<p>│   └── seeds.sql</p>
-<p>│</p>
-<p>├── models</p>
-<p>│   └── burger.js</p>
-<p>│ </p>
-<p>├── node_modules</p>
-<p>│ </p>
-<p>├── package.json</p>
-<p>│</p>
-<p>├── public</p>
-<p>│   └── assets</p>
-<p>│       ├── css</p>
-<p>│       │   └── burger_style.css</p>
-<p>│       └── img</p>
-<p>│           └── burger.png</p>
-<p>│</p>
-<p>│</p>
-<p>├── server.js</p>
-<p>│</p>
-<p>└── views</p>
-    <p>├── index.handlebars</p>
-    <p>└── layouts</p>
-        <p>└── main.handlebars</p>
