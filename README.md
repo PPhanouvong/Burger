@@ -16,7 +16,7 @@ Express
 Handlebars
 
 File Setup
-.
+
 ├── config
 │   ├── connection.js
 │   └── orm.js
