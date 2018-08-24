@@ -21,8 +21,4 @@ Before You Begin
 <p>Express</p>
 <p>Handlebars</p>
 <br>
-<<<<<<< HEAD
 <br>
-=======
-<br>
->>>>>>> 602a82574f425a9a1fec634277515daf5cf8abac
